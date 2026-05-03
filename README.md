@@ -1,7 +1,6 @@
 # 📈 Stock Portfolio Tracker
 
-A simple and interactive **command-line Python application** that allows users to manage and track their stock investments. This project was developed as part of the **CodeAlpha Python Internship**.
-
+A simple and interactive **command-line Python application** that allows users to manage and track their stock investments.
 ---
 
 ## 🚀 Features
@@ -84,12 +83,6 @@ TOTAL INVESTMENT VALUE: $613.00
 * 📉 Graphical visualization of portfolio
 * 🌐 Web-based interface (Streamlit / Flask)
 * 📊 Historical performance tracking
-
----
-
-## 🙌 Acknowledgment
-
-Developed as part of the **CodeAlpha Internship Program** to practice Python fundamentals and file handling.
 
 ---
 
