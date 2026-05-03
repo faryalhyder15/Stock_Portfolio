@@ -137,7 +137,6 @@ def save_to_txt(rows: list, total: float):
 def main():
     print("\n" + "═" * 52)
     print("     📈  STOCK PORTFOLIO TRACKER  📈")
-    print("         CodeAlpha Python Internship")
     print("═" * 52)
 
     # Show available stocks
@@ -169,7 +168,7 @@ def main():
         print(f"  ✅  TXT saved → {path}")
 
     if choice == "4":
-        print("  ℹ  Results not saved.")
+        print("   Results not saved.")
 
     print("\n  Thanks for using Stock Portfolio Tracker! 📊\n")
 
